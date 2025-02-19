@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# React Native Guide Example App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) example app as part of the `@evva/abrevva-react-native` plugin guide.
 
 ## Get started
 
